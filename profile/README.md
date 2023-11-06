@@ -1,0 +1,6 @@
+# Welcome to the Peppered org
+
+Peppered is the CMS for Arts Marketing. These repositories support the CMS, related functionality and tooling.
+
+## Archive
+- Peppered has been around for a while. Ancient code can be found in the [Archive](https://github.com/orgs/peppered-archive/repositories).
